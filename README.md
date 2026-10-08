@@ -1,2 +1,2 @@
 # owami.sibahle
-Aspiring Software Developer 
+UI Design | Web Design
